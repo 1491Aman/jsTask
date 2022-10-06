@@ -6,4 +6,3 @@ for (i = 0; i <= a; i++) {
 }
 console.log(typeof a)
 console.log("Sum of first " + a + " natural numbers is " + sum);
-
